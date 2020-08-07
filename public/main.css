@@ -1,0 +1,39 @@
+@font-face {
+    font-family: CocoGoose;
+    src: url("/fonts/CocoGoose.ttf");
+}
+
+@font-face {
+    font-family: nunito;
+    font-weight: 400;
+    src: url("/fonts/nunito-regular.ttf");
+}
+
+@font-face {
+    font-family: nunito-bold;
+    font-weight: 700;
+    src: url("/fonts/nunito-bold.ttf");
+}
+
+@font-face {
+    font-family: nunito-black;
+    font-weight: 900;
+    src: url("/fonts/nunito-black.ttf");
+}
+
+@font-face {
+    font-family: roboto-mono;
+    font-weight: 500;
+    src: url("/fonts/robotomono-medium.ttf");
+}
+
+html {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}

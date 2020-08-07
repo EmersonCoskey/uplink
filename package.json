@@ -1,0 +1,24 @@
+{
+  "name": "uplink",
+  "version": "1.0.0",
+  "description": "a simple and easy to use minecraft rcon web client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCostco/uplink.git"
+  },
+  "author": "Emerson Coskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCostco/uplink/issues"
+  },
+  "homepage": "https://github.com/TheCostco/uplink#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gsap": "^3.4.2",
+    "rcon-client": "^4.2.0"
+  }
+}
